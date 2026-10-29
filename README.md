@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tokkkkkkk
-- 👀 I’m interested in anything
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me email
+
 
 
 <!---
