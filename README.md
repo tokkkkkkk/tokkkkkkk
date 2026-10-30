@@ -15,4 +15,4 @@ CS undergrad at Ca' Foscari University of Venice. Currently building full-stack 
 
 ---
 
-**[LinkedIn](https://linkedin.com/in/yourprofile)** • **[Email](mailto:giacomo.tokez@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/giacomo-tocchetto-29bb1232b/)** • **[Email](mailto:giacomo.tokez@gmail.com)**
